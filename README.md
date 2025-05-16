@@ -1,5 +1,5 @@
-# Emotional Intelligence Therapy Chatbot  
-**A hybrid RAG + CAG framework for emotionally supportive multi-turn conversations**
+# Emotional Intelligence Assistant using a Hybrid Augmented Generation Framework 
+**A RAG + CAG framework for emotionally supportive multi-turn conversations**
 
 ## Project Summary
 This project investigates whether combining **Retrieval-Augmented Generation (RAG)** and **Cache-Augmented Generation (CAG)** can improve emotional intelligence, personalization, and memory in therapy-style chatbot systems. We build and compare two architectures:
