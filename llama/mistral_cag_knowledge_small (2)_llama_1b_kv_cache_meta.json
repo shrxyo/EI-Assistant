@@ -1,0 +1,234 @@
+{
+  "source_file": "mistral_cag_knowledge_small (2).md",
+  "document_name": "mistral_cag_knowledge_small (2)",
+  "token_count": 3266,
+  "model": "meta-llama/Llama-3.2-1B-Instruct (8-bit quantized)",
+  "layer_count": 16,
+  "timestamp": "2025-05-14T13:14:27.307507",
+  "layer_shapes": {
+    "layer_0": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_1": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_2": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_3": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_4": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_5": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_6": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_7": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_8": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_9": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_10": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_11": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_12": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_13": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_14": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    },
+    "layer_15": {
+      "key_shape": [
+        1,
+        8,
+        3266,
+        64
+      ],
+      "value_shape": [
+        1,
+        8,
+        3266,
+        64
+      ]
+    }
+  }
+}
