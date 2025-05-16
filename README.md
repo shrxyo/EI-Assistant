@@ -24,7 +24,7 @@ This project investigates whether combining **Retrieval-Augmented Generation (RA
 ## Evaluation
 ### Semantic Similarity
 - Measured cosine similarity between generated and gold responses using MiniLM sentence embeddings
-- GPT-4o-mini (finetuned) improved average similarity by ~4% compared to baseline
+- GPT-4o-mini (finetuned) improved average similarity compared to baseline.
 
 ### Human Evaluation
 - Domain expert rated outputs on empathy, coherence, and relevance.
