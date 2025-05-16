@@ -33,6 +33,8 @@ This project investigates whether combining **Retrieval-Augmented Generation (RA
 - Domain expert rated outputs on empathy, coherence, and relevance.
 - CAG + RAG models had a comparitively better performance in emotional continuity.
 
+---
+
 
 ## Code
 **🧠Fine-tuning (GPT-4o)**
