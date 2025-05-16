@@ -6,7 +6,6 @@ This project investigates whether combining **Retrieval-Augmented Generation (RA
 - **GPT-4o-mini (finetuned on a therapy dataset using OpenAI API)**
 - **LLaMA 3.2 1B Instruct (unfinetuned open-source model)**
 
----
 
 ## Dataset
 - Used the [PHR Mental Therapy Conversational Dataset](https://huggingface.co/datasets/vibhorag101/phr-mental-therapy-dataset-conversational-format)
@@ -14,7 +13,6 @@ This project investigates whether combining **Retrieval-Augmented Generation (RA
 - We sampled **1,200 conversations** (80% train / 20% test)
 - Conversations were cleaned, normalized, and formatted as JSONL
 
----
 
 ## Architecture Overview
 - **CAG**: Preloads therapeutic knowledge such as CBT practices, suicide protocols, and disclaimers
@@ -22,7 +20,6 @@ This project investigates whether combining **Retrieval-Augmented Generation (RA
   - LLaMA: Uses true KV cache preloading
 - **RAG**: Retrieves previous conversation summaries from **ChromaDB** using sentence embeddings
 
----
 
 ## Evaluation
 ### Semantic Similarity
@@ -32,8 +29,6 @@ This project investigates whether combining **Retrieval-Augmented Generation (RA
 ### Human Evaluation
 - Domain expert rated outputs on empathy, coherence, and relevance.
 - CAG + RAG models had a comparitively better performance in emotional continuity.
-
----
 
 
 ## Code
